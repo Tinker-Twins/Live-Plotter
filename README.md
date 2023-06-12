@@ -1,2 +1,2 @@
-# Live-Plotter
+# Live Plotter
 Create Live Data Plots with Dynamic Updates
